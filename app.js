@@ -15,7 +15,7 @@ const PRODUCTS = [
     category: "Silk",
     tag: "Bestseller",
     image:
-      "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/1200x/89/cd/8b/89cd8bd0b3c9538f6ff1ab838bd49d73.jpg",
   },
   {
     id: "kanchi-bridal-maroon",
@@ -24,7 +24,7 @@ const PRODUCTS = [
     category: "Bridal",
     tag: "Bridal Edit",
     image:
-      "https://images.unsplash.com/photo-1593032465175-481ac7f401a0?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/736x/ca/b6/8c/cab68cbf25dc34d49b382cd656e688ce.jpg",
   },
   {
     id: "georgette-party-blush",
@@ -33,7 +33,7 @@ const PRODUCTS = [
     category: "Party Wear",
     tag: "New",
     image:
-      "https://images.unsplash.com/photo-1583391733981-2c52b6b6e9a6?auto=format&fit=crop&w=800&q=80",
+    "https://tse2.mm.bing.net/th/id/OIP.E3u3AEf-I6hGgoFneDCs4wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",   
   },
   {
     id: "cotton-handblock-cream",
@@ -42,7 +42,7 @@ const PRODUCTS = [
     category: "Cotton",
     tag: "Everyday",
     image:
-      "https://images.unsplash.com/photo-1623082574085-157d955f59f7?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/736x/d8/f3/5e/d8f35e7fdaf7518258467ff23b853538.jpg",
   },
   {
     id: "silk-temple-gold",
@@ -51,7 +51,7 @@ const PRODUCTS = [
     category: "Silk",
     tag: "Heritage",
     image:
-      "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/1200x/55/98/4c/55984ca417c73c2dda6731d350c07fc3.jpg",
   },
   {
     id: "bridal-zari-ivory",
@@ -60,7 +60,7 @@ const PRODUCTS = [
     category: "Bridal",
     tag: "Limited",
     image:
-      "https://images.unsplash.com/photo-1570943732778-e19ed8ae4ede?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/1200x/80/fb/9f/80fb9f7bbed1c64fb7b0ba0f745017f6.jpg",
   },
   {
     id: "party-sequin-wine",
@@ -68,7 +68,7 @@ const PRODUCTS = [
     price: 6999,
     category: "Party Wear",
     image:
-      "https://images.unsplash.com/photo-1520974735194-fdb60b04b2e5?auto=format&fit=crop&w=800&q=80",
+      "https://i.pinimg.com/736x/6c/af/32/6caf32e35c476940c87257ce48bfdbb3.jpg",
   },
   {
     id: "cotton-jamdani-pink",
@@ -76,7 +76,7 @@ const PRODUCTS = [
     price: 3499,
     category: "Cotton",
     image:
-      "https://images.pexels.com/photos/1130620/pexels-photo-1130620.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "https://i.pinimg.com/736x/3b/66/2a/3b662af69c15a701cb9ddb75047afc70.jpg",
   },
 ];
 
